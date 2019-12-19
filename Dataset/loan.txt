@@ -1,0 +1,8 @@
+income,house,car,sanction_loan
+low,no,no,no
+low,no,yes,no
+high,yes,no,no
+high,yes,yes,yes
+low,yes,no,no
+low,yes,yes,no
+high,no,no,yes

@@ -1,0 +1,7 @@
+age_group,car_type,crash_risk
+middle_aged,family,low
+young,sports,high
+old,sports,high
+middle_aged,family,low
+young,family,high
+middle_aged,sports,high
